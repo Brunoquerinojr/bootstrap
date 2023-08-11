@@ -1,0 +1,16 @@
+.bi {
+   font-size: 60px;
+   margin-left: 1000px;
+}
+.verde {
+    color: green;
+}
+/* .vermelho {
+    color: red;
+    margin-left: 500px;
+    
+} */
+.fixed-buttom {
+    bottom: 10px;
+    left: 10px;
+}
